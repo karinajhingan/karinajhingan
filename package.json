@@ -1,0 +1,25 @@
+{
+  "name": "karinajhingan",
+  "version": "1.0.0",
+  "description": "<!-- **karinajhingan/karinajhingan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node.js server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karinajhingan/karinajhingan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/karinajhingan/karinajhingan/issues"
+  },
+  "homepage": "https://github.com/karinajhingan/karinajhingan#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+  
+}
